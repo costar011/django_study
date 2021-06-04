@@ -53,7 +53,9 @@
 </pre>
 
 <pre>    
-    13. If you find the project and enter it, a file called setting.json is created in the .vscode folder, and you need to set some settings.
+    13. If you find the project and enter it, a file called
+        setting.json is created in the .vscode folder
+        and you need to set some settings.
 </pre>
 
 <pre>    
