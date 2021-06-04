@@ -64,6 +64,7 @@
 <pre>    
     15. python manage.py makemigrations
         python manage.py migrate
+        Write every time it changes.
 </pre>
 
 <pre>    
